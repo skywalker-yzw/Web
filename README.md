@@ -1,2 +1,2 @@
 # Web
-Will use repository to store the learning materials, exercise projects for web development
+Will use this repository to store the learning materials and exercise projects for web development
